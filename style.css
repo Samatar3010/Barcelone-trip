@@ -219,14 +219,14 @@ aside
     left: -12px;
 }
 
-#photo_zozor
-{
+#photo_profil{
     text-align: center;
 }
 
-#photo_zozor img
-{
+#photo_profil img{
     border: 1px solid #181818;
+    height: 150px;
+    width: auto;
 }
 
 aside img
